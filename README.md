@@ -90,7 +90,7 @@ Task-Management-System/
 ### Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <https://github.com/preyanshisoni/Task_Management_By_Preyanshi.git>
 ```
 
 ---
